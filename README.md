@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/geperez8/Flixster.v2/master/)
+![](AND102Project4.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
