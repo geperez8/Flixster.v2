@@ -4,7 +4,7 @@ Submitted by: Gerardo A. Perez
 
 Gerardo A. Perez is a movie browsing app that allows users to browse Actors and TV Shows
 
-Time spent: 3 hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
