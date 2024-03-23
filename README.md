@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/12ZQ65l.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/geperez8/Flixster.v2/master/)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
